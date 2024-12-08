@@ -12,7 +12,7 @@ I am an experienced IT and Audio-Visual (AV) Support Engineer with expertise in 
 
 ## 💼 Work Experience  
 
-### 🏢 **Innovation System and solution private limited | Resident Engineer** *(Current)*  
+### 🏢 **Innovative System and solution private limited | Resident Engineer** *(Current)*  
 - Provided **Audio-Visual (AV) support** for Polycom and Cisco Room Kits.  
 - Configured **Board Room GUIs** using Crestron and Extron devices.  
 - Managed projectors, video walls, amplifiers, switchers, and touch panels.
